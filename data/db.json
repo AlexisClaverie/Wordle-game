@@ -1,0 +1,19 @@
+{
+    "solutions" : [
+        {"word" : "corde", "id": 1},
+        {"word" : "tranche", "id": 2},
+        {"word" : "fossette", "id": 3},
+        {"word" : "raccourci", "id": 4},
+        {"word" : "citations", "id": 5},
+        {"word" : "collection", "id": 6},
+        {"word" : "fontaine", "id": 7},
+        {"word" : "cadeau", "id": 8},
+        {"word" : "irriguer", "id": 9},
+        {"word" : "observatoire", "id": 10},
+        {"word" : "artificiel", "id": 11},
+        {"word" : "bouclier", "id": 12},
+        {"word" : "mascotte", "id": 13},
+        {"word" : "appareil", "id": 14},
+        {"word" : "machine", "id": 15}
+    ]
+}
